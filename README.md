@@ -1,1 +1,0 @@
-# ykashou92.github.io
