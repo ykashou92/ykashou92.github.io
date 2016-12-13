@@ -1,7 +1,5 @@
 # Probability Table Generation and Next-Word Prediction
 
----
-
 #### __The idea is very simple. There are a few steps involved in the creation of the algorithm, we can begin by creating the following `.R` files:__  
 
 - [x] `DataLoading.R` : A script to load the data  
